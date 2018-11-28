@@ -1,8 +1,8 @@
 # open-source-workshop-sheffield
 
-To do list
+### To do list
 
-- make dinner later
-- travel home
-- pick up victoria
-- change made on the web repository
+1. make dinner later
+2. travel home
+3. pick up victoria
+4. change made on the web repository
